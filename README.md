@@ -24,6 +24,3 @@ This project demonstrates competency in:
 - Matrix manipulation with NumPy.
 - OpenCV for image augmentation and resizing.
 - Building custom HDF5 pipelines to handle unstructured data.
-
----
-*Developed for academic portfolio and application to the Paris-Saclay AI Master track.*
